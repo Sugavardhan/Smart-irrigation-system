@@ -1,0 +1,8 @@
+# SMART-IRRIGATION-SYSTEM
+This project can designed using Arduino Uno .It can automate irrigation system in agriculture land.
+According to the field and plants both ph level, moisture of the soil will detected by
+using ph sensor and moisture sensor.
+
+If ph level is greater than 7(Base) and moisture level is less than 10. Fertilizer is mixed with water
+automatically, starts to irrigate the plants.When it reaches the particular level, automatically the
+motor will turn off.Using uv laser animals get detected and intimated through sound.
